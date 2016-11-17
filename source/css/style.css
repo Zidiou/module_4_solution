@@ -1,0 +1,27 @@
+body {
+	background-color: #00ff80;
+}
+
+.navbar-color{
+	background-image: url(healing-colors.jpg);
+	background-position: center;
+	height: 73px;
+}
+
+.navbar-color h1 {
+	color: darkgrey;
+	text-align: center;
+	text-transform: uppercase;
+	line-height: .78;
+	text-shadow: 2px 2px 2px blue;
+	font-weight: 800;
+	font-size: 37px;
+}
+
+p {
+	text-align: center;
+	margin: 300px;
+	font-weight: 600;
+	text-transform: capitalize;
+	font-size: 43px;
+}
